@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chayan Sinha
 - 👀 I’m interested in Cloud Computing and CyberSecurity
-- 🌱 I’m currently learning web development, Problem solving , algotrithms
+- 🌱 I’m currently learning web development, Problem solving , algorithms
 - 💞️ I’m looking to collaborate on WebDev
 - 📫 You can reach me through @csinha2002@gmail.com
 
