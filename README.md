@@ -1,15 +1,32 @@
 <img src="https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png">
 <h1 align="center">Hi 👋, I'm Chayan Sinha</h1>
 <h3 align="center">A pre final year student currently working on various projects and exploring both frontend and and backend skills. I have interest in other domains as well including Cyber Security and Cloud Computing.</h3>
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=csinha134&label=Profile%20views&color=0e75b6&style=flat" alt="csinha134" /> </p>
 
-- 🌱 I’m currently learning **React , ExpressJs**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csinha134" alt="csinha134" /></a> </p>
+
+<div class="tenor-gif-embed" data-postid="25731151" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/coding-gif-25731151">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<p align="left"> <a href="https://twitter.com/chayan_sinha_" target="blank"><img src="https://img.shields.io/twitter/follow/chayan_sinha_?logo=twitter&style=for-the-badge" alt="chayan_sinha_" /></a> </p>
+
+- 🔭 I’m currently working on **React and MongoDB**
+
+- 🌱 I’m currently learning **React , ExpressJs ,**
+
+- 👯 I’m looking to collaborate on **MERN stack projects**
+
+- 🤝 I’m looking for help with **Java Sprinboot**
+
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **csinha134@gmail.com**
 
+- ⚡ Fun fact **2r2eu2oi2joi39dj30d9039dj092j091-2909 you are too lazy to read that.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/chayan_sinha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chayan_sinha_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chayan-sinha-647957173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chayan-sinha-647957173/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/chayansinha24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/chayansinha24/" height="30" width="40" /></a>
 </p>
