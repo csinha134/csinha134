@@ -10,6 +10,10 @@ Full Stack Developer
 * 🤝  I'm open to collaborating on ReactJS projects
 * ⚡  Lazy fact "90210h3d08h0d8dh\[d038h3d320d238dh03d" you are too lazy to read that
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=csinha134&label=Profile%20Views&color=4&icon=5&pretty=false" />
+</a>
+
 <a href="https://www.github.com/csinha134" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/csinha134?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -63,6 +67,6 @@ src="https://img.shields.io/github/followers/csinha134?logo=github&style=for-the
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=csinha134&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
