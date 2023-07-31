@@ -10,9 +10,6 @@ Full Stack Developer
 * 🤝  I'm open to collaborating on ReactJS projects
 * ⚡  Lazy fact "90210h3d08h0d8dh\[d038h3d320d238dh03d" you are too lazy to read that
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=csinha134&label=Profile%20Views&color=4&icon=5&pretty=false" />
-</a>
 
 <a href="https://www.github.com/csinha134" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/csinha134?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -55,6 +52,11 @@ src="https://img.shields.io/github/followers/csinha134?logo=github&style=for-the
 <a href="http://www.github.com/csinha134"><img src="https://github-readme-streak-stats.herokuapp.com/?user=csinha134&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/csinha134"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=csinha134&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=csinha134&label=Profile%20Views&color=4&icon=5&pretty=false" />
+</a>
+
 
 
 
