@@ -53,9 +53,6 @@ src="https://img.shields.io/github/followers/csinha134?logo=github&style=for-the
 
 <a href="http://www.github.com/csinha134"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=csinha134&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=csinha134&label=Profile%20Views&color=4&icon=5&pretty=false" />
-</a>
 
 
 
@@ -67,6 +64,11 @@ src="https://img.shields.io/github/followers/csinha134?logo=github&style=for-the
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=csinha134&label=Profile%20Views&color=4&icon=5&pretty=false" />
+</a>
 
 ---
 
