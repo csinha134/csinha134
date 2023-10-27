@@ -7,6 +7,8 @@ Full Stack Developer
 # 💫 About Me:
 💻 Upcoming SWE @ JP Morgan Chase & Co.<br>🔭 I’m currently working on Full Stack Projects<br>🤝  I'm open to collaborating on ReactJS projects<br>🧠  I'm learning Express JS | Node JS<br>💬 Ask me about React JS | Spring Boot Java<br>🌍  I'm based in Delhi<br>✉️  You can contact me at csinha134@gmail.com<br>🤝  I'm open to collaborating on ReactJS projects<br>⚡  Lazy fact "90210h3d08h0d8dh[d038h3d320d238dh03d" you are too lazy to read that
 
+[![](https://visitcount.itsvg.in/api?id=csinha134&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <a href="https://www.github.com/csinha134" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/csinha134?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -31,7 +33,6 @@ src="https://img.shields.io/github/followers/csinha134?logo=github&style=for-the
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=csinha134&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
@@ -42,9 +43,7 @@ src="https://img.shields.io/github/followers/csinha134?logo=github&style=for-the
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=csinha134&label=Profile%20Views&color=4&icon=5&pretty=false" />
-</a>
+
 
 ---
 
