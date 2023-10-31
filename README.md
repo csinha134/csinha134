@@ -1,4 +1,4 @@
-[] Hi!!! My name is Chayan Sinha 👋
+Hi!!! My name is Chayan Sinha 👋
 =========================================================================================================================================
 
 Full Stack Developer | Upcoming SWE @ JP Morgan Chase & Co.
