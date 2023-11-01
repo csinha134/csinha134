@@ -1,7 +1,7 @@
 Hi!!! My name is Chayan Sinha 👋
 =========================================================================================================================================
 
-Full Stack Developer | Upcoming SWE @ JP Morgan Chase & Co.
+Full Stack Developer | Software Engineer
 --------------------
 
 # 💫 About Me:
